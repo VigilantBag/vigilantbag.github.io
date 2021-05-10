@@ -2,13 +2,10 @@
 title: Sheldon Rice
 subtitle: A portfolio
 email: vigilantbag2018@protonmail.com
-url: # the base hostname & protocol for your site
+baseurl: 
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+city: Channel Islands
+state: CA
 phone: (716) 555-5555
 
 # homepage tiles

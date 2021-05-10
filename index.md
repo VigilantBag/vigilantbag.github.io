@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: home
 title: Home
 landing-title: 'My Works'
 description: null

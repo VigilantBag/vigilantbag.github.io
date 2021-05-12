@@ -10,7 +10,7 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<!--<section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>VBN Fire Defense Systems</h2>
@@ -18,12 +18,12 @@ nav-menu: true
 		<p></p>
 	</div>
 </section>
-
+-->
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link https://www.vbnfiredefense.com/uploads/6/3/1/9/63196117/background-images/371557401.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

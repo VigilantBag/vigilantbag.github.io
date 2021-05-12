@@ -2,7 +2,7 @@
 title: VBN Fire Defense Systems
 layout: post
 description: 'The Company I Founded'
-image: /assets/images/vbnfds.jpg
+image: assets/images/vbnfds.jpg
 nav-menu: true
 ---
 

@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>VBN Fire Defense Systems</h2>
 		</header>
-		<p>The creation of VBN, Inc. and it's subsidiary VBN Fire Defense Systems, has proven to be extremely beneficial to the public. </br> We supply fire defense equipment and retardants and design and install stationary active fire defense systems. These systems include the minimum of various fire host connectios, hooked up to either a pool pump or our supplied fire pump. The most widely bought would be our perimeter defense sprinklers, with a Phos-Chek retardant tank feeding the pipes. Our most sought after systems would include a centralized, and controlled fire turret mounted either on the roof of the structure, or in another high location. </br> All of our systems are able to be controlled remotely and have redundacies put in place for various potential failures.</p>
+		<p></p>
 	</div>
 </section>
 
@@ -28,9 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>VBN Fire Defense Systems</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>The creation of VBN, Inc. and it's subsidiary VBN Fire Defense Systems, has proven to be extremely beneficial to the public.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

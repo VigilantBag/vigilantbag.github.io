@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Public Works (Civic)
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Everything I have done or built to benefit the public'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>VBN Fire Defense Systems</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>The creation of VBN, Inc. and it's subsidiary VBN Fire Defense Systems, has proven to be extremely beneficial to the public. </br> We supply fire defense equipment and retardants and design and install stationary active fire defense systems. These systems include the minimum of various fire host connectios, hooked up to either a pool pump or our supplied fire pump. The most widely bought would be our perimeter defense sprinklers, with a Phos-Chek retardant tank feeding the pipes. Our most sought after systems would include a centralized, and controlled fire turret mounted either on the roof of the structure, or in another high location. </br> All of our systems are able to be controlled remotely and have redundacies put in place for various potential failures.</p>
 	</div>
 </section>
 

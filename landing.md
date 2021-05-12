@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>The creation of VBN, Inc. and it's subsidiary VBN Fire Defense Systems, has proven to be extremely beneficial to the public.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="vbnfds.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,9 +44,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Tor Against CP Offensive</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>One of my most recent works comes in the form of a darknet organization, destined to take down illegal pedophilia based content on the internet.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

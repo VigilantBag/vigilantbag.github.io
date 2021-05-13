@@ -30,3 +30,4 @@ exclude:
 - CONTRIBUTING.md
 - README.md 
 - elements
+- generic.md

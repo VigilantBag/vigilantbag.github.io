@@ -7,7 +7,7 @@ author:
 city: Channel Islands
 state: CA
 phone: (716) 555-5555
-
+url: https://vigilantbag.github.io
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6

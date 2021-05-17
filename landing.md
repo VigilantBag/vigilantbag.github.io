@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="vbnfds.html" class="image">
 			<img src="{% link /assets/images/vbnfds.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>VBN Fire Defense Systems</h3>
 				</header>
-				<p>The creation of VBN, Inc. and it's subsidiary VBN Fire Defense Systems, has proven to be extremely beneficial to the public.</p>
+				<p>The creation of VBN, Inc. and it's subsidiary VBN Fire Defense Systems.</p>
 				<ul class="actions">
 					<li><a href="vbnfds.html" class="button">Learn more</a></li>
 				</ul>
@@ -38,7 +38,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="tacpo.html" class="image">
 			<img src="{% link assets/images/tacpologo.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -72,6 +72,7 @@ nav-menu: true
 </section>
 
 <!-- Three -->
+<!--
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -83,5 +84,5 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
-
+-->
 </div>

@@ -5,6 +5,8 @@ description: 'A Darknet Organization'
 image: assets/images/tacpologo.png
 nav-menu: true
 ---
+Onion Address: tacpozmyh6yk5hbvdptvs3bfntihler6cy7au75ry365tmucznttkuyd.onion
+
 Tor Against CP Offensive (TACPO) is an organization founded and breathing on the darknet. The organization mainly consists of a soon to be automated website.
 
 The organization is based on the premise of being passive but offering a location for hackers to gather to help take down the problem.

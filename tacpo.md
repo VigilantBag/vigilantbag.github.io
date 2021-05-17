@@ -2,7 +2,7 @@
 title: Tor Against CP Offensive
 layout: post
 description: 'A Darknet Organization'
-image: assets/images/pic07.jpg
+image: assets/images/tacpologo.png
 nav-menu: true
 ---
 Tor Against CP Offensive (TACPO) is an organization founded and breathing on the darknet. The organization mainly consists of a soon to be automated website.

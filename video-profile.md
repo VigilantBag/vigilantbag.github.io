@@ -6,4 +6,6 @@ image: assets/images/vaporwave.png
 nav-menu: true
 draft: true
 ---
-To be uploaded...
+<video width="480" controls>
+    <source src="assets/videos/Video Profile.mp4" type="video/mp4">
+</video>

@@ -7,11 +7,11 @@ nav-menu: true
 ---
 <a href="https://www.vbnfiredefense.com" target="_blank"> Site </a>
 
-We supply fire defense equipment and retardants and design and install stationary active fire defense systems. These systems include the minimum of various fire host connectios, hooked up to either a pool pump or our supplied fire pump. The most widely bought would be our perimeter defense sprinklers, with a Phos-Chek retardant tank feeding the pipes. Our most sought after systems would include a centralized, and controlled fire turret mounted either on the roof of the structure, or in another high location.  All of our systems are able to be controlled remotely and have redundacies put in place for various potential failures.
+We supply fire defense equipment and retardants and design and install stationary active fire defense systems. These systems include the minimum of various fire host connections, hooked up to either a pool pump or our supplied fire pump. The most widely bought would be our perimeter defense sprinklers, with a Phos-Chek retardant tank feeding the pipes. Our most sought after systems would include a centralized, and controlled fire turret mounted either on the roof of the structure, or in another high location.  All of our systems are able to be controlled remotely and have redundancies put in place for various potential failures.
 
 Our most notable distinction is our usage of our in house logic control system to remotely control the system. This system is developed with an emphasis on being user friendly. The numerous redundancies in our system lead to it's incredible uptime.
 
-We also have recieved a very notable testimonial from a well known author on wildfires, Kurt Kamm:
+We also have received a very notable testimonial from a well known author on wildfires, Kurt Kamm:
 <pre><code>
 "Not Your Grandfather's Rooftop Water Sprinklers"
 

@@ -27,23 +27,23 @@ nav-menu: true
 		<h4>Computer / Tech</h4>
 		<ul>
 			<li>Full Stack</li>
-				<dd>Creation of multiple websites such as <a href="/tacpo.html" target="_blank">TACPO</a>, the <a href="https://www.vbnfiredefense.com" target="_blank">VBN:FDS</a> website, a website for my highschool <a href="https://www.aocalumni.com" target="_blank">aocalumni.com</a>, among many others.</dd>
+				<dd>- Creation of multiple websites such as <a href="/tacpo.html" target="_blank">TACPO</a>, the <a href="https://www.vbnfiredefense.com" target="_blank">VBN:FDS</a> website, a website for my highschool <a href="https://www.aocalumni.com" target="_blank">aocalumni.com</a>, among many others.</dd>
 			<li>Python</li>
-				<dd>Creation of "Sayori Bot" and usage in VBN, Inc. for automation.</dd>
+				<dd>- Creation of "Sayori Bot" and usage in VBN, Inc. for automation.</dd>
 			<li>*nix</li>
-				<dd>Linux is my preferred operating system and I have lots of experience with the command line for both clients and servers.</dd>
+				<dd>- Linux is my preferred operating system and I have lots of experience with the command line for both clients and servers.</dd>
 			<li>Offensive and Defensive (blue team and red team) hacking </li>
-				<dd>Defense of my home and company network against attacks in addition work conducted on Hack the Box.</dd>
+				<dd>- Defense of my home and company network against attacks in addition work conducted on Hack the Box.</dd>
 			<li>Network / Packet analysis</li>
-				<dd>Used in identifying threats and safeguarding privacy.</dd>
+				<dd>- Used in identifying threats and safeguarding privacy.</dd>
 			<li>Hidden Service operator</li>
-				<dd>The <a href="/tacpo.html" target="_blank">creation</a> of Tor Against CP Offensive is my most notable hidden service.</dd>
+				<dd>- The <a href="/tacpo.html" target="_blank">creation</a> of Tor Against CP Offensive is my most notable hidden service.</dd>
 			<li>Automation developer</li>
-				<dd>The development of an unreleased project for VBN, Inc. in addition to years of experience developing scripts for myself.</dd>
+				<dd>- he development of an unreleased project for VBN, Inc. in addition to years of experience developing scripts for myself.</dd>
 			<li>AI/ML programmer</li>
-				<dd>Utilized in my VBN, Inc. project, as well as for a personal "active network defense" project.</dd>
+				<dd>- Utilized in my VBN, Inc. project, as well as for a personal "active network defense" project.</dd>
 			<li>Business technology management</li>
-				<dd>Creation and maintenance of VBN, Inc.'s technology and technology based projects.</dd>
+				<dd>- Creation and maintenance of VBN, Inc.'s technology and technology based projects.</dd>
 		</ul>
 		<h4>Software Proficiency</h4>
 		<ul>
@@ -55,9 +55,9 @@ nav-menu: true
 		<h4>Miscellaneous</h4>
 		<ul>
 			<li>Hardware Development</li>
-			<dd>Creation of VBN>FDS Logic Control System</dd>
-			<dd>Circuitry for Sayori Bot</dd>
-			<dd>Electronics Repairs</dd>
+			<dd>- Creation of VBN:FDS Logic Control System</dd>
+			<dd>- Circuitry for Sayori Bot</dd>
+			<dd>- Electronics Repairs</dd>
 		</ul>
 		<h4>Education</h4>
 		<ul>

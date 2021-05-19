@@ -19,15 +19,15 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 
-		<h4>Job Experience</h4>
+		<h2>Job Experience</h2>
 		<ul>
 			<li>CTO and Co-Founder of VBN, Inc.</li>
 		</ul>
-		<h4>Skills</h4>
-		<h2>Computer / Tech</h2>
+		<h2>Skills</h2>
+		<h4>Computer / Tech</h4>
 		<ul>
 			<li>Full Stack</li>
-				<dd>Creation of multiple websites such as <a href="/tacpo.html" target="_blank">TACPO</a>, the <a href="https://www.vbnfiredefense.com" target="_blank">VBN:FDS</a> website, a website for my highschool <a href="https://www.aocalumni.com target="_blank">aocalumni.com</a>, among many others.</dd>
+				<dd>Creation of multiple websites such as <a href="/tacpo.html" target="_blank">TACPO</a>, the <a href="https://www.vbnfiredefense.com" target="_blank">VBN:FDS</a> website, a website for my highschool <a href="https://www.aocalumni.com" target="_blank">aocalumni.com</a>, among many others.</dd>
 			<li>Python</li>
 				<dd>Creation of "Sayori Bot" and usage in VBN, Inc. for automation.</dd>
 			<li>*nix</li>
@@ -45,14 +45,14 @@ nav-menu: true
 			<li>Business technology management</li>
 				<dd>Creation and maintenance of VBN, Inc.'s technology and technology based projects.</dd>
 		</ul>
-		<h2>Software Proficiency</h2>
+		<h4>Software Proficiency</h4>
 		<ul>
 			<li>Microsoft Office Suite, including Excel programming and Libre Office</li>
 			<li>All *nix based systems</li>
 			<li>Nginx and Apache webservers</li>
 			<li>Various IDEs including Visual Studio, vim, Notepad++, and Arduino IDE</li>
 		</ul>
-		<h2>Miscellaneous</h2>
+		<h4>Miscellaneous</h4>
 		<ul>
 			<li>Hardware Development</li>
 			<dd>Creation of VBN>FDS Logic Control System</dd>
@@ -66,7 +66,7 @@ nav-menu: true
 		</ul>
 		
 
-		<h4>Social Media</h4>
+		<h2>Social Media</h2>
 		<ul class="icons">
 			<li><a href="https://github.com/VigilantBag" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
 			<li><a href="https://www.sololearn.com/profile/359173" target="_blank" class="icon fa-code"><span class="label">Sololearn</span></a></li>

@@ -43,9 +43,9 @@ nav-menu: true
 
 		<h4>Social Media</h4>
 		<ul class="icons">
-			<li><a href="https://github.com/VigilantBag" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="https://www.sololearn.com/profile/359173" class="icon fa-code"><span class="label">Sololearn</span></a></li>
-			<li><a href="https://app.hackthebox.eu/profile/100013" class="icon fa-terminal"><span class="label>Hack the Box</span></a></li>
+			<li><a href="https://github.com/VigilantBag" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
+			<li><a href="https://www.sololearn.com/profile/359173" target="_blank" class="icon fa-code"><span class="label">Sololearn</span></a></li>
+			<li><a href="https://app.hackthebox.eu/profile/100013" target="_blank" class="icon fa-terminal"><span class="label">Hack the Box</span></a></li>
 		</ul>
 </div>
 

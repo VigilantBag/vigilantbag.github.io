@@ -21,13 +21,13 @@ nav-menu: true
 
 		<h2>Job Experience</h2>
 		<ul>
-			<li>CTO and Co-Founder of VBN, Inc.</li>
+			<li>CTO and Co-Founder of VBN, Inc. 2014-Present</li>
 		</ul>
 		<h2>Skills</h2>
 		<h4>Computer / Tech</h4>
 		<ul>
 			<li>Full Stack</li>
-				<dd>- Creation of multiple websites such as <a href="/tacpo.html" target="_blank">TACPO</a>, the <a href="https://www.vbnfiredefense.com" target="_blank">VBN:FDS</a> website, a website for my highschool <a href="https://www.aocalumni.com" target="_blank">aocalumni.com</a>, among many others.</dd>
+				<dd>- Creation of multiple websites such as <a href="/tacpo.html" target="_blank">TACPO</a>, the <a href="https://www.vbnfiredefense.com" target="_blank">VBN:FDS</a> website, a website for Academy of the Canyons <a href="https://www.aocalumni.com" target="_blank">aocalumni.com</a>, among many others.</dd>
 			<li>Python</li>
 				<dd>- Creation of "Sayori Bot" and usage in VBN, Inc. for automation.</dd>
 			<li>*nix</li>
@@ -55,14 +55,15 @@ nav-menu: true
 		<h4>Miscellaneous</h4>
 		<ul>
 			<li>Hardware Development</li>
-			<dd>- Creation of VBN:FDS Logic Control System</dd>
-			<dd>- Circuitry for Sayori Bot</dd>
-			<dd>- Electronics Repairs</dd>
+			<dd>- Creation of VBN:FDS Logic Control System.</dd>
+			<dd>- Circuitry for Sayori Bot.</dd>
+			<dd>- Electronics Repairs.</dd>
 		</ul>
 		<h4>Education</h4>
 		<ul>
-			<li>Bachelor's of Computer Science from California State University, Channel Islands on 2025.</li>
+			<li>Bachelor's of Computer Science from California State University, Channel Islands on May 2023.</li>
 			<li>Individual learning for programming, hacking, and software development.</li>
+			<li>Academy of the Canyons Middle College Highschool June 2021.</li>
 		</ul>
 		
 

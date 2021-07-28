@@ -30,40 +30,51 @@ nav-menu: true
 				<dd>- Creation of multiple websites such as <a href="/tacpo.html" target="_blank">TACPO</a>, the <a href="https://www.vbnfiredefense.com" target="_blank">VBN:FDS</a> website, a website for Academy of the Canyons <a href="https://www.aocalumni.com" target="_blank">aocalumni.com</a>, among many others.</dd>
 			<li>Python</li>
 				<dd>- Creation of "Sayori Bot" and usage in VBN, Inc. for automation.</dd>
-			<li>*nix</li>
+			<li>Linux</li>
 				<dd>- Linux is my preferred operating system and I have lots of experience with the command line for both clients and servers.</dd>
 			<li>Offensive and Defensive (blue team and red team) hacking </li>
-				<dd>- Defense of my home and company network against attacks in addition work conducted on Hack the Box.</dd>
+				<dd>- Defense of my home and company network against attacks in addition work conducted on <a href="https://app.hackthebox.eu/profile/100013" target="_blank">Hack the Box</a></a>, a website for practicing infiltration into compromised systems.</dd>
+			<li>Networking</li>
+				<dd>- Ethernet and WiFi connectivity for home and company.</dd>
+				<dd>- Management and maintenance of networks.</dd>
+				<dd>- Security and auditing of network equipment and software.</dd>
+				<dd>- Proficiency in enterprise grade networking equipment.</dd>
 			<li>Network / Packet analysis</li>
 				<dd>- Used in identifying threats and safeguarding privacy.</dd>
 			<li>Hidden Service operator</li>
 				<dd>- The <a href="/tacpo.html" target="_blank">creation</a> of Tor Against CP Offensive is my most notable hidden service.</dd>
 			<li>Automation developer</li>
-				<dd>- he development of an unreleased project for VBN, Inc. in addition to years of experience developing scripts for myself.</dd>
-			<li>AI/ML programmer</li>
-				<dd>- Utilized in my VBN, Inc. project, as well as for a personal "active network defense" project.</dd>
+				<dd>- The development of an unreleased project for VBN, Inc. in addition to years of experience developing scripts for other small projects.</dd>
+			<li>Artificial Intelligence / Machine Learning programmer</li>
+				<dd>- Utilized in my VBN, Inc. projects, as well as for a personal "active network defense" project.</dd>
 			<li>Business technology management</li>
-				<dd>- Creation and maintenance of VBN, Inc.'s technology and technology based projects.</dd>
+				<dd>- Creation and maintenance of VBN, Inc.'s technology and technology based projects and networks.</dd>
 		</ul>
 		<h4>Software Proficiency</h4>
 		<ul>
 			<li>Microsoft Office Suite, including Excel programming and Libre Office</li>
-			<li>All *nix based systems</li>
+			<li>All Linux based systems</li>
 			<li>Nginx and Apache webservers</li>
 			<li>Various IDEs including Visual Studio, vim, Notepad++, and Arduino IDE</li>
 		</ul>
 		<h4>Miscellaneous</h4>
 		<ul>
 			<li>Hardware Development</li>
-			<dd>- Creation of VBN:FDS Logic Control System.</dd>
-			<dd>- Circuitry for Sayori Bot.</dd>
-			<dd>- Electronics Repairs.</dd>
+				<dd>- Creation of the VBN:FDS Logic Control System.</dd>
+				<dd>- Circuitry for Sayori Bot.</dd>
+				<dd>- Electronics Repairs.</dd>
+			<li>Well Rounded Skills</li>
+				<dd>- Mechanics Building and Repairs.</dd>
+				<dd>- Auto Repairs and Maintenance</dd>
+				<dd>- 3 Years Plumbing Experience.</dd>
+				<dd>- Novice Carpentry</dd>
 		</ul>
 		<h4>Education</h4>
 		<ul>
 			<li>Bachelor's of Computer Science from California State University, Channel Islands on May 2023.</li>
 			<li>Individual learning for programming, hacking, and software development.</li>
 			<li>Academy of the Canyons Middle College Highschool June 2021.</li>
+			<li>3 Associates degrees from College of the Canyons June 2021.</li>
 		</ul>
 		
 

@@ -45,7 +45,7 @@ nav-menu: true
 				<dd>- Networking support for home and employees</dd>
 				<dd>- General IT support</dd>
 				<dd>- Programming Support</dd>
-				<dd>- </dd>
+				<dd>- Hardware Support</dd>
 			<li>Hidden Service operator</li>
 				<dd>- The <a href="/tacpo.html" target="_blank">creation</a> of Tor Against CP Offensive is my most notable hidden service.</dd>
 			<li>Automation developer</li>

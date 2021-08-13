@@ -22,6 +22,7 @@ nav-menu: true
 		<h2>Job Experience</h2>
 		<ul>
 			<li>CTO and Co-Founder of VBN, Inc. 2014-Present</li>
+			<li>Website designer for College of the Canyons, contractual</li>
 		</ul>
 		<h2>Skills</h2>
 		<h4>Computer / Tech</h4>
@@ -76,10 +77,10 @@ nav-menu: true
 		</ul>
 		<h4>Education</h4>
 		<ul>
+			<li>AS Computer Science, AS Math, AA Liberal Arts and Sciences from College of the Canyons June 2021.</li>
 			<li>Bachelor's of Computer Science from California State University, Channel Islands on May 2023.</li>
-			<li>Individual learning for programming, hacking, and software development.</li>
+			<li>Individual learning for programming, cybersecurity, and software development.</li>
 			<li>Academy of the Canyons Middle College Highschool June 2021.</li>
-			<li>3 Associates degrees from College of the Canyons June 2021.</li>
 		</ul>
 		
 

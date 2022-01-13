@@ -21,6 +21,7 @@ nav-menu: true
 
 		<h2>Job Experience</h2>
 		<ul>
+			<li>Teller at Arvest Bank, September 2021 - December 2021</li>
 			<li>CTO and Co-Founder of VBN, Inc. 2014-Present</li>
 			<li>Website designer for College of the Canyons, contractual</li>
 		</ul>

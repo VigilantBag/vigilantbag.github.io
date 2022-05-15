@@ -9,9 +9,9 @@ nav-menu: true
 <div id="main" class="alt">
 	<!-- One -->
 	<section id="one">
+			<img style="vertical-align:middle; max-width: 20%;" src="assets/images/picofme.png" />
+				<span style="font-size: 1.75em; padding-left: 20px;">Sheldon Rice</span> 		
 		<div class="inner">
-			<img style="vertical-align:middle;" src="assets/images/picofme.png" />
-				<span style="font-size: 1.75em;">Sheldon Rice</span> 		
 			<header class="major">
 				<h1>Resume</h1>
 			</header>

@@ -8,6 +8,36 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 
+	<div>
+		<style>
+			.container {
+				display: flex;
+				align-items: center;
+				justify-content: center
+			}
+
+			img {
+				max-width: 50%;
+				height: auto;
+			}
+
+			.image {
+				flex-basis: 40%
+			}
+			.text {
+				padding-left: 20px;
+			}
+		</style>
+		<div class="container">
+			<div class="image">
+			<img src="assets/images/picofme.png" />
+		</div>
+		<div class="text">
+			<h2>Sheldon Rice</h2> 
+		</div>
+		</div>
+	</div>
+
 	<!-- One -->
 	<section id="one">
 		<div class="inner">
@@ -18,34 +48,7 @@ nav-menu: true
 			<!-- Content -->
 			<div class="row">
 				<div class="6u 12u$(small)">
-					<div>
-						<style>
-							.container {
-								display: flex;
-								align-items: center;
-								justify-content: center
-							}
-
-							img {
-								max-width: 100%
-							}
-
-							.image {
-								flex-basis: 40%
-							}
-							.text {
-								padding-left: 20px;
-							}
-						</style>
-						<div class="container">
-							<div class="image">
-							<img src="assets/images/picofme.png" />
-						</div>
-						<div class="text">
-							<h2>Sheldon Rice</h2> 
-						</div>
-						</div>
-					</div>
+					
 					<h2>Job Experience</h2>
 					<ul>
 						<li>Student Assistant in the IT Infrastructure Department at CSUCI</li>

@@ -10,36 +10,8 @@ nav-menu: true
 	<!-- One -->
 	<section id="one">
 		<div class="inner">
-			<div>
-				<style>
-					.container {
-						display: flex;
-						align-items: center;
-						justify-content: left
-					}
-		
-					img {
-						max-width: 100%;
-						height: auto;
-					}
-		
-					.image {
-						flex-basis: 40%
-					}
-					.text {
-						padding-left: 20px;
-					}
-				</style>
-				<div class="container">
-					<div class="image">
-					<img src="assets/images/picofme.png" />
-				</div>
-				<div class="text">
-					<h2>Sheldon Rice</h2> 
-				</div>
-				</div>
-			</div>
-		
+			<img style="vertical-align:middle;" src="assets/images/picofme.png" />
+				<span style="font-size: 1.75em;">Sheldon Rice</span> 		
 			<header class="major">
 				<h1>Resume</h1>
 			</header>

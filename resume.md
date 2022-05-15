@@ -7,40 +7,40 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-
-	<div>
-		<style>
-			.container {
-				display: flex;
-				align-items: center;
-				justify-content: center
-			}
-
-			img {
-				max-width: 50%;
-				height: auto;
-			}
-
-			.image {
-				flex-basis: 40%
-			}
-			.text {
-				padding-left: 20px;
-			}
-		</style>
-		<div class="container">
-			<div class="image">
-			<img src="assets/images/picofme.png" />
-		</div>
-		<div class="text">
-			<h2>Sheldon Rice</h2> 
-		</div>
-		</div>
-	</div>
-
 	<!-- One -->
 	<section id="one">
 		<div class="inner">
+			<div>
+				<style>
+					.container {
+						display: flex;
+						align-items: center;
+						justify-content: center
+					}
+		
+					img {
+						width: 20%;
+						max-width: 25%;
+						height: auto;
+					}
+		
+					.image {
+						flex-basis: 40%
+					}
+					.text {
+						padding-left: 20px;
+					}
+				</style>
+				<div class="container">
+					<div class="image">
+					<img src="assets/images/picofme.png" />
+				</div>
+				<div class="text">
+					<h2>Sheldon Rice</h2> 
+				</div>
+				</div>
+			</div>
+		
 			<header class="major">
 				<h1>Resume</h1>
 			</header>

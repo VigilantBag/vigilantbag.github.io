@@ -22,7 +22,7 @@ nav-menu: true
 					
 					<h2>Job Experience</h2>
 					<ul>
-						<li>Student Assistant in the IT Infrastructure Department at CSUCI</li>
+						<li>Information Systems Specialist in the IT Infrastructure Department at CSUCI</li>
 						<li>Teller at Arvest Bank, September 2021 - December 2021</li>
 						<li>CTO and Co-Founder of VBN, Inc. 2014-Present</li>
 						<li>Website designer for College of the Canyons, contractual</li>
@@ -101,6 +101,7 @@ nav-menu: true
 
 					<h2>Social Media</h2>
 					<ul class="icons">
+     						<li><a href="https://www.linkedin.com/in/sheldon-rice-572864132" target="_blank" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
 						<li><a href="https://github.com/VigilantBag" target="_blank" class="icon fa-github"><span
 									class="label">Github</span></a></li>
 						<li><a href="https://www.sololearn.com/profile/359173" target="_blank"

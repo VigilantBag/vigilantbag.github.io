@@ -37,22 +37,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
-		<a href="tacpo.html" class="image">
-			<img src="{% link assets/images/tacpologo.png %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Tor Against CP Offensive</h3>
-				</header>
-				<p>One of my most recent works comes in the form of a darknet organization, destined to take down illegal pedophilia based content on the internet.</p>
-				<ul class="actions">
-					<li><a href="tacpo.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
 	<!--<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
